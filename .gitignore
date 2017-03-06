@@ -1,6 +1,7 @@
 .DS_Store
-/public
-/support
-/.publish
-/node_modules
-/support
+public
+support
+.publish
+node_modules
+.sass-cache
+_site
